@@ -1,0 +1,10 @@
+{
+  "name": "counter",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite-tsc && vite build",
+    "preview": "vite preview"
+  }
+}
