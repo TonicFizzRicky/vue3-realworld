@@ -1,5 +1,5 @@
 {
-  "name": "toggle",
+  "name": "commands",
   "private": true,
   "scripts": {
     "dev": "vite",

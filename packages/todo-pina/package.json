@@ -1,5 +1,5 @@
 {
-  "name": "toggle",
+  "name": "todo-pina",
   "private": true,
   "scripts": {
     "dev": "vite",

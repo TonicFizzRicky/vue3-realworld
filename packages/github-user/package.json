@@ -1,5 +1,5 @@
 {
-  "name": "toggle",
+  "name": "github-user",
   "private": true,
   "scripts": {
     "dev": "vite",
